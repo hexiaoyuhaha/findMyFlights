@@ -1,0 +1,2918 @@
+[
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "6:11pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "5:05pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 1 hours 6 minutes", 
+        "plane code": "ER4", 
+        "plane": "Embraer RJ145", 
+        "departure": "IAD, Washington", 
+        "stops": "Nonstop", 
+        "ticket price": "1180.40"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "9:30am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "8:30am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 1 hours 0 minutes", 
+        "plane code": "ER4", 
+        "plane": "Embraer RJ145", 
+        "departure": "IAD, Washington", 
+        "stops": "Nonstop", 
+        "ticket price": "180.40"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:00pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "10:00pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 1 hours 0 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "IAD, Washington", 
+        "stops": "Nonstop", 
+        "ticket price": "180.40"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "1:39pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "12:33pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 1 hours 6 minutes", 
+        "plane code": "ER4", 
+        "plane": "Embraer RJ145", 
+        "departure": "IAD, Washington", 
+        "stops": "Nonstop", 
+        "ticket price": "200.40"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:19am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "10:43am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:05am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 4 hours 13 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "519.62"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:50am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "7:55am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "3:49pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:00pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 7 hours 54 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "530.82"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:19am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "3:49pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:00pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 9 hours 19 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "530.82"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:36am", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 36 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "563.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "9:31am", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "8:25am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 3 hours 31 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "563.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "2:38pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "6:51pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "5:45pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 51 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "563.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "7:25pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "5:27pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "9:01pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "7:55pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 3 hours 34 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "563.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "3:03pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "1:55pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 9 hours 3 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "574.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "2:38pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "9:01pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "7:55pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 1 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "574.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "6:43am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "5:20am"
+            }, 
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "8:31am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "7:39am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "12:20pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "11:03am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 0 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "608.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:22pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "6:46pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:53pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:11pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 5 hours 7 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "609.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:42am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "10:17am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:17pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:33pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "609.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:24am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "6:59am"
+            }, 
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "10:29am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:34am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:45pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "3:28pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 9 hours 46 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "620.00"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "6:43am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "5:20am"
+            }, 
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "8:31am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "7:39am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:45pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "3:28pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 11 hours 25 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "620.00"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "3:15pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:53pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:11pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 8 hours 38 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "620.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "11:19am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:47pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 47 minutes", 
+        "plane code": "CRJ", 
+        "plane": "Canadair RJ", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "663.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:24am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "6:59am"
+            }, 
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "12:12pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "11:20am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:45pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "3:28pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 9 hours 46 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "704.82"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:44am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "9:18am"
+            }, 
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "1:54pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:45pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "3:28pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 27 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "704.82"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:44am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "9:18am"
+            }, 
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "12:12pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "11:20am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:45pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "3:28pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 27 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "704.82"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:14pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "7:10pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "12:05am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:20pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 4 hours 55 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "709.62"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "6:43am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "5:20am"
+            }, 
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "10:29am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:34am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:45pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "3:28pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 11 hours 25 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "716.02"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:25pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "11:00am"
+            }, 
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "1:54pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:45pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "3:28pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 45 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "788.82"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "1:58pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "12:02pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "6:10pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "4:20pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 8 minutes", 
+        "plane code": "M88", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "821.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "4:15pm"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "8:50pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "7:50pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "12:10am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "9:40pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "1 days 7 hours 55 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "838.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:44am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "9:18am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "2:53pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:25pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 35 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "904.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "2:57pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "1:36pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "5:58pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "4:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 22 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "904.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:44am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "9:18am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "1:09pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "11:40am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 3 hours 51 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "904.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "6:43am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "5:20am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:08am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:40am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 48 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "904.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "4:15pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "9:10pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "7:50pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 55 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "904.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:24am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "6:59am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "1:09pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "11:40am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 10 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "904.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:16pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "5:58pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:26pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "10:09pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 28 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "904.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:25pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "11:00am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "2:53pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:25pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 3 hours 53 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "904.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "2:57pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "1:36pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "7:43pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "6:15pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 7 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "904.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:24am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "6:59am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:08am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:40am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 9 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "904.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "9:06pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "7:50pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:26pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "10:09pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 3 hours 36 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "904.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:25pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "11:00am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:17pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "2:50pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 17 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "904.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "6:43am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "5:20am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "9:31am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "8:00am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 11 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "904.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "4:15pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "7:43pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "6:15pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 3 hours 28 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "904.60"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "6:43am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "5:20am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "1:09pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "11:40am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 49 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "915.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "4:15pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:26pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "10:09pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 11 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "915.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:25pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "11:00am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "9:10pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "7:50pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 10 hours 10 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "915.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:25pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "11:00am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "7:43pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "6:15pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 8 hours 43 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "915.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:24am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "6:59am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:17pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "2:50pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 9 hours 18 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "915.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "6:43am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "5:20am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "2:53pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:25pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 9 hours 33 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "915.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:24am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "6:59am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "2:53pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:25pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 54 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "915.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "2:57pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "1:36pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "9:10pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "7:50pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 7 hours 34 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "915.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:25pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "11:00am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "5:58pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "4:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 58 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "915.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:44am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "9:18am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "5:58pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "4:30pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 8 hours 40 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "915.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:44am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "9:18am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "7:43pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "6:15pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 10 hours 25 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "915.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "2:57pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "1:36pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:26pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "10:09pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 9 hours 50 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "915.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:44am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "9:18am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:17pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "2:50pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 59 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "IAD, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "915.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "9:23pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "8:14pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 1 hours 9 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "DCA, Washington", 
+        "stops": "Nonstop", 
+        "ticket price": "261.20"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "9:42am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "8:25am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 1 hours 17 minutes", 
+        "plane code": "CRJ", 
+        "plane": "Canadair RJ", 
+        "departure": "DCA, Washington", 
+        "stops": "Nonstop", 
+        "ticket price": "261.20"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:03pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "12:25pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "3:32pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 55 minutes", 
+        "plane code": "ER4", 
+        "plane": "Embraer RJ145", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "5:45pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "10:02pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "8:45pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 17 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "1:24pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "12:00pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:06pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "2:35pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 6 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "9:30am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "8:00am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "2:36pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "1:05pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 36 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "7:38am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "10:11am", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "8:50am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 3 hours 41 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "8:26am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "12:41pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "11:05am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 41 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "11:26am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "2:36pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "1:05pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 36 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:05pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "4:30pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "9:47pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:55pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 17 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "3:28pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "8:03pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:25pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 3 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "7:38am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "12:30pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "11:15am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "6:29pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "5:00pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "10:37pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "9:00pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 37 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "5:28pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "4:00pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "8:03pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:25pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 3 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "9:30am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "8:00am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "12:41pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "11:05am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 41 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "7:55am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "1:35pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "12:05pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 5 hours 40 minutes", 
+        "plane code": "ERJ", 
+        "plane": "Embraer EMB-145", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "10:29am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "2:36pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "1:05pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 36 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:54am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:04am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:15am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 34 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "8:55pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "7:34pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:15pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:45pm"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 3 hours 41 minutes", 
+        "plane code": "ERJ", 
+        "plane": "Embraer EMB-145", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "10:25am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:48am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 4 hours 25 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "4:29pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "3:00pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "8:03pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:25pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 5 hours 3 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "5:28pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "4:00pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "10:37pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "9:00pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 37 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "11:26am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:06pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "2:35pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 6 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "7:32am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "6:15am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:02am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:30am"
+            }
+        ], 
+        "airline": "United", 
+        "flight duration": "0 days 4 hours 47 minutes", 
+        "plane code": "ERJ", 
+        "plane": "Embraer EMB-145", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "12:41pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "11:05am"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 6 hours 41 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "269.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "6:42pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "5:35pm"
+            }
+        ], 
+        "airline": "American Airlines", 
+        "flight duration": "0 days 1 hours 7 minutes", 
+        "plane code": "E75", 
+        "plane": "Embraer 175", 
+        "departure": "DCA, Washington", 
+        "stops": "Nonstop", 
+        "ticket price": "341.20"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "1:44pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "12:35pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:21pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "2:54pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "10:00pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:18pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 9 hours 25 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "DCA, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "496.90"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "8:41am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:14pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "10:29am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:51pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:59pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 10 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "DCA, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "496.90"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "1:44pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "12:35pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:59pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "4:20pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "10:59pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:05pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 10 hours 24 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "DCA, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "496.90"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "8:41am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:21pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "2:54pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "10:00pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:18pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 13 hours 19 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "DCA, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "502.50"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "1:44pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "12:35pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:30pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "7:59pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "12:10am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:28pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 11 hours 35 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "DCA, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "502.50"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "8:41am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:59pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "4:20pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "10:59pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:05pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 14 hours 18 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "DCA, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "502.50"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "8:41am"
+            }, 
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "2:25pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "12:35pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "6:47pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "5:40pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 10 hours 6 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "DCA, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "515.90"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "8:41am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "3:17pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "1:45pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "7:19pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:39pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 10 hours 38 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "DCA, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "515.90"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "1:44pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "12:35pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:21pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "2:54pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "7:19pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:39pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 44 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "DCA, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "515.90"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "8:41am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:21pm", 
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)", 
+                "departure_time": "2:54pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "7:19pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:39pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 10 hours 38 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "DCA, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "521.50"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "arrival_time": "8:13am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "6:35am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:29pm", 
+                "departure_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "departure_time": "11:01am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "3:58pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:16pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 9 hours 23 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "DCA, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "536.90"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "arrival_time": "8:13am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "6:35am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:13am", 
+                "departure_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "3:58pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:16pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 9 hours 23 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "DCA, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "536.90"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "arrival_time": "3:14pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "1:40pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:29pm", 
+                "departure_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "departure_time": "6:43pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "12:10am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:28pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "1 days 10 hours 30 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "DCA, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "536.90"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "arrival_time": "8:13am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "6:35am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:13am", 
+                "departure_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "2:47pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:08pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 12 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "DCA, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "536.90"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "arrival_time": "8:13am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "6:35am"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:29pm", 
+                "departure_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "departure_time": "11:01am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "2:47pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:08pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 12 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "DCA, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "550.90"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:30pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "9:04pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "7:45am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:00am"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "1 days 10 hours 41 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "551.40"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:22pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "10:51am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:49pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:05pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 5 hours 58 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "565.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "2:09pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "12:39pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:49pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:05pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 4 hours 10 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "565.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:45am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "8:17am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:49pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:05pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 8 hours 32 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "571.40"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:44pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "3:14pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:41pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:57pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 8 hours 27 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "571.40"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "3:16pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "1:49pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:41pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:57pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 9 hours 52 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "571.40"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "2:09pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "12:39pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:41pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:57pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 11 hours 2 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "571.40"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:50am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "9:22am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:49pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:05pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 7 hours 27 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "571.40"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "arrival_time": "3:14pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "1:40pm"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "6:23pm", 
+                "departure_airport": "Cincinnati, OH (CVG-Cincinnati - Northern Kentucky Intl.)", 
+                "departure_time": "4:51pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "10:00pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:18pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 8 hours 20 minutes", 
+        "plane code": "CR7", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure": "DCA, Washington", 
+        "stops": "2 Stop", 
+        "ticket price": "573.90"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "7:19pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "5:42pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:22pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "10:17pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 40 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "626.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "7:36am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "6:05am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "10:11am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 10 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "626.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "11:17am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "10:05am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:51pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:59pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 46 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "626.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "2:17pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "12:45pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "6:47pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "5:40pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 6 hours 2 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "626.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "6:45pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "5:07pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "10:59pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:05pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 5 hours 52 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "626.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "9:05am", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "7:30am"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "10:11am"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 3 hours 45 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "626.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "1:23pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "12:00pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:51pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:59pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 4 hours 51 minutes", 
+        "plane code": "", 
+        "plane": "", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "626.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "9:25pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "7:47pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:22pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "10:17pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 3 hours 35 minutes", 
+        "plane code": "320", 
+        "plane": "Airbus A320", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "626.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "4:26pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "2:50pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "6:47pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "5:40pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 3 hours 57 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "626.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:33pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "5:00pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:41pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:57pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 6 hours 41 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "665.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "2:17pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "12:45pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "4:31pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "3:27pm"
+            }
+        ], 
+        "airline": "Delta", 
+        "flight duration": "0 days 3 hours 46 minutes", 
+        "plane code": "319", 
+        "plane": "Airbus A319", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "716.80"
+    }, 
+    {
+        "arrival": "PIT, Pittsburgh", 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:09pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "7:38pm"
+            }, 
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:41pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:57pm"
+            }
+        ], 
+        "airline": "JetBlue Airways", 
+        "flight duration": "0 days 4 hours 3 minutes", 
+        "plane code": "E90", 
+        "plane": "Embraer 190", 
+        "departure": "DCA, Washington", 
+        "stops": "1 Stop", 
+        "ticket price": "720.80"
+    }
+]

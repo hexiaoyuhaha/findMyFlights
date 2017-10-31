@@ -1,0 +1,271 @@
+{
+            "fareBasisCode": "UL4AUEN",
+            "index": 52,
+            "carrierSummary": {
+                "seatMapAvailable": true,
+                "airProviderId": 2,
+                "nextDayArrival": false,
+                "airlineName": "JetBlue Airways",
+                "noOfTicketsLeft": 7,
+                "multiStop": true,
+                "airlineCodes": [
+                    "B6",
+                    "B6"
+                ],
+                "airlineImageFileName": "b6.gif",
+                "displayUrgencyMessage": false,
+                "mixedCabinClass": false
+            },
+            "partnerLoyaltyBrandedFare": null,
+            "unformattedDistance": 901,
+            "formattedStops": "1",
+            "timeline": [
+                {
+                    "distance": {
+                        "total": 406,
+                        "formattedTotal": "406",
+                        "unit": "mi"
+                    },
+                    "departureTime": {
+                        "hour": null,
+                        "travelDate": "12/21/17",
+                        "dateLongStr": "Thu, Dec 21",
+                        "dateTime": 1513868820000,
+                        "isoStr": "2017-12-21T10:07:00.000-05:00",
+                        "time": "10:07am",
+                        "date": "12/21/2017"
+                    },
+                    "type": "Segment",
+                    "arrivalTime": {
+                        "hour": null,
+                        "travelDate": "12/21/17",
+                        "dateLongStr": "Thu, Dec 21",
+                        "dateTime": 1513873860000,
+                        "isoStr": "2017-12-21T11:31:00.000-05:00",
+                        "time": "11:31am",
+                        "date": "12/21/2017"
+                    },
+                    "brandedFareName": "",
+                    "departureAirport": {
+                        "city": "Washington",
+                        "code": "IAD",
+                        "name": "Washington (IAD)",
+                        "longName": "Washington, DC (IAD-Washington Dulles Intl.)",
+                        "airportCityState": "Washington, DC",
+                        "localName": "Washington Dulles Intl."
+                    },
+                    "carrier": {
+                        "seatMapAvailable": true,
+                        "operatedByAirlineCode": "",
+                        "cabinClass": "3",
+                        "operatedBy": "",
+                        "planeCode": "E90",
+                        "airlineName": "JetBlue Airways",
+                        "flightNumber": "56",
+                        "bookingCode": "U",
+                        "airlineImageFileNameWithoutExtension": "b6",
+                        "airlineCode": "B6",
+                        "plane": "Embraer 190",
+                        "airlineImageFileName": "b6.gif",
+                        "showCabinClass": true
+                    },
+                    "layover": false,
+                    "duration": {
+                        "hours": 1,
+                        "departureTimeOfDay": null,
+                        "numOfDays": 0,
+                        "minutes": 24,
+                        "arrivalTimeOfDay": null
+                    },
+                    "segment": true,
+                    "meals": [],
+                    "arrivalAirport": {
+                        "city": "Boston",
+                        "code": "BOS",
+                        "name": "Boston (Logan Intl.)",
+                        "longName": "Boston, MA (BOS-Logan Intl.)",
+                        "airportCityState": "Boston, MA",
+                        "localName": "Logan Intl."
+                    }
+                },
+                {
+                    "type": "Layover",
+                    "airport": {
+                        "city": "Boston",
+                        "code": "BOS",
+                        "name": "Boston (Logan Intl.)",
+                        "longName": "Boston, MA (BOS-Logan Intl.)",
+                        "airportCityState": "Boston, MA",
+                        "localName": "Logan Intl."
+                    },
+                    "layoverNumber": 1,
+                    "layover": true,
+                    "duration": {
+                        "hours": 3,
+                        "departureTimeOfDay": null,
+                        "numOfDays": 0,
+                        "minutes": 8,
+                        "arrivalTimeOfDay": null
+                    },
+                    "segment": false
+                },
+                {
+                    "distance": {
+                        "total": 495,
+                        "formattedTotal": "495",
+                        "unit": "mi"
+                    },
+                    "departureTime": {
+                        "hour": null,
+                        "travelDate": "12/21/17",
+                        "dateLongStr": "Thu, Dec 21",
+                        "dateTime": 1513885140000,
+                        "isoStr": "2017-12-21T14:39:00.000-05:00",
+                        "time": "2:39pm",
+                        "date": "12/21/2017"
+                    },
+                    "type": "Segment",
+                    "arrivalTime": {
+                        "hour": null,
+                        "travelDate": "12/21/17",
+                        "dateLongStr": "Thu, Dec 21",
+                        "dateTime": 1513892100000,
+                        "isoStr": "2017-12-21T16:35:00.000-05:00",
+                        "time": "4:35pm",
+                        "date": "12/21/2017"
+                    },
+                    "brandedFareName": "",
+                    "departureAirport": {
+                        "city": "Boston",
+                        "code": "BOS",
+                        "name": "Boston (Logan Intl.)",
+                        "longName": "Boston, MA (BOS-Logan Intl.)",
+                        "airportCityState": "Boston, MA",
+                        "localName": "Logan Intl."
+                    },
+                    "carrier": {
+                        "seatMapAvailable": true,
+                        "operatedByAirlineCode": "",
+                        "cabinClass": "3",
+                        "operatedBy": "",
+                        "planeCode": "E90",
+                        "airlineName": "JetBlue Airways",
+                        "flightNumber": "1685",
+                        "bookingCode": "V",
+                        "airlineImageFileNameWithoutExtension": "b6",
+                        "airlineCode": "B6",
+                        "plane": "Embraer 190",
+                        "airlineImageFileName": "b6.gif",
+                        "showCabinClass": true
+                    },
+                    "layover": false,
+                    "duration": {
+                        "hours": 1,
+                        "departureTimeOfDay": null,
+                        "numOfDays": 0,
+                        "minutes": 56,
+                        "arrivalTimeOfDay": null
+                    },
+                    "segment": true,
+                    "meals": [],
+                    "arrivalAirport": {
+                        "city": "Pittsburgh",
+                        "code": "PIT",
+                        "name": "Pittsburgh (PIT)",
+                        "longName": "Pittsburgh, PA (PIT-Pittsburgh Intl.)",
+                        "airportCityState": "Pittsburgh, PA",
+                        "localName": "Pittsburgh Intl."
+                    }
+                }
+            ],
+            "price": {
+                "formattedRoundedPrice": "$351",
+                "totalPriceAsDecimalString": "350.80",
+                "exactPrice": 350.8,
+                "flightFareTypeCode": "P",
+                "formattedBestPriceDelta": "$298.40",
+                "formattedRoundedTotalPrice": "$351",
+                "bestPriceDelta": 298.40000000000003,
+                "currencyCode": "USD",
+                "localizedCurrencyCode": "USD",
+                "totalPriceAsDecimal": 350.8,
+                "formattedRoundedBestPriceDelta": "$298",
+                "offerPrice": 351.0,
+                "hasFare": true,
+                "flightFareTypeValue": 1,
+                "formattedPriceWithCreditCardFeesEstimate": "",
+                "roundedBestPriceDelta": 298,
+                "formattedTotalPrice": "$350.80",
+                "pricedFlight": true,
+                "earnGPSRewards": null,
+                "formattedPrice": "$350.80",
+                "priceIllegal": false,
+                "feesMessage": {
+                    "specialFareMessage": "",
+                    "showOBFeeDetailLink": false,
+                    "showBaggageFeeIncludedMsg": false,
+                    "showCheckedBagIncludedMsg": false,
+                    "nextGenContentWithLink": false,
+                    "isShowFreeCancellation": true,
+                    "airlineBasedBaggageAllowance": 0,
+                    "showFirstCheckedBagIncludedMsg": false,
+                    "isFlightIneligibleForBPG": false,
+                    "showBaggageFeeNotIncludedMsg": false,
+                    "showBaggageFeeOnPurchaseMsg": false,
+                    "showLCCBaggageAllowanceMsg": false,
+                    "baggageAllowance": "",
+                    "isShowBestPriceGuarantee": false,
+                    "showOBFeeMessageForLeg": false,
+                    "matchDataAirProvider": true,
+                    "showHandBaggageOnlyMsg": false
+                }
+            },
+            "departureTime": {
+                "hour": 10,
+                "travelDate": null,
+                "dateLongStr": "Thu, Dec 21",
+                "dateTime": 1513868820000,
+                "isoStr": "2017-12-21T10:07:00.000-05:00",
+                "time": "10:07am",
+                "date": "12/21/2017"
+            },
+            "formattedDistance": "901",
+            "arrivalLocation": {
+                "airportCode": "PIT",
+                "airportCity": "Pittsburgh"
+            },
+            "stops": 1,
+            "duration": {
+                "hours": 6,
+                "departureTimeOfDay": "MORNING",
+                "numOfDays": 0,
+                "minutes": 28,
+                "arrivalTimeOfDay": "AFTERNOON"
+            },
+            "nonDelta": true,
+            "hotwireMarketing": false,
+            "arrivalTime": {
+                "hour": null,
+                "travelDate": null,
+                "dateLongStr": "Thu, Dec 21",
+                "dateTime": 1513892100000,
+                "isoStr": "2017-12-21T16:35:00.000-05:00",
+                "time": "4:35pm",
+                "date": "12/21/2017"
+            },
+            "departureLocation": {
+                "airportCode": "IAD",
+                "airportCity": "Washington"
+            },
+            "hotelAdjustedDatesModel": null,
+            "naturalKey": "307550261004ef4460322062421aa840",
+            "basicEconomy": {
+                "rules": [],
+                "enabled": false,
+                "areaOneTrip": false
+            },
+            "identity": {
+                "index": 52,
+                "naturalKey": "307550261004ef4460322062421aa840"
+            }
+        }
